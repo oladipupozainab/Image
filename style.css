@@ -1,0 +1,29 @@
+﻿body
+{
+    margin:0;
+    padding: 0;
+}
+
+.image{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+
+.hi{
+    width: 200px;
+    height: 150px;
+}
+.grid{
+    margin-bottom: 250px;
+}
+.hey{
+    font-size: 70px;
+    color: blue;
+    font-weight: bolder;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform:uppercase;
+    text-shadow: 2px blue;
+    margin-left: 180px;
+}
