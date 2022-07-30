@@ -15,7 +15,7 @@ body
     width: 200px;
     height: 150px;
 }
-.grid{
+.child{
     margin-bottom: 250px;
 }
 .hey{
@@ -32,7 +32,7 @@ body
       font-size: 30px;
       margin-right: 70px;
     }
-    .grid{ 
-        margin-bottom: 500px;
+    .child{ 
+        margin-bottom: -300px;
     }
 }
