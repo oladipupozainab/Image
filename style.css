@@ -11,8 +11,8 @@
     text-align: center;
 }
 .grid{
-    margin-bottom: 150px
-
+    margin-bottom: 150px;
+}
 .hi{
     width: 200px;
     height: 150px;
@@ -32,6 +32,6 @@
       margin-right: 70px;
     }
     .grid{ 
-        margin-bottom: 200px;
+        margin-bottom: -200px;
     }
 }
