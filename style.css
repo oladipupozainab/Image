@@ -26,7 +26,6 @@ body
     text-transform:uppercase;
     text-shadow: 2px blue;
     margin-left: 180px;
-    margin-top: -20px;
 }
 @media only screen and (max-width: 600px) {
   .hey{
@@ -34,6 +33,6 @@ body
       margin-right: 70px;
     }
     .child{ 
-        margin-bottom: -280px;
+        margin-bottom: 280px;
     }
 }
