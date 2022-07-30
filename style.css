@@ -32,8 +32,9 @@ body
       font-size: 30px;
       text-align: center;    
     }
-    h1{
-    margin-right: 70px;}
+   .child h1{
+    margin-left: -140px;
+    }
     .child{
         margin-bottom: 600px;
     }
