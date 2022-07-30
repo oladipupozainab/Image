@@ -10,6 +10,8 @@
     color: blue;
     text-align: center;
 }
+.grid{
+    margin-bottom: 150px
 
 .hi{
     width: 200px;
@@ -27,9 +29,9 @@
 @media only screen and (max-width: 600px) {
   .hey{
       font-size: 30px;
-      text-align: center;
+      margin-right: 70px;
     }
     .grid{ 
-        margin-bottom: -250px;
+        margin-bottom: 200px;
     }
 }
