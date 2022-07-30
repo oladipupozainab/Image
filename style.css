@@ -30,9 +30,9 @@ body
 @media only screen and (max-width: 600px) {
   .hey{
       font-size: 30px;
-      margin-right: 70px;
+      margin-right: 100px;
     }
     .child{
-        margin-bottom: 500px;
+        margin-bottom: 600px;
     }
 }
