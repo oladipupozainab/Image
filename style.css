@@ -30,9 +30,10 @@ body
 @media only screen and (max-width: 600px) {
   .hey{
       font-size: 30px;
-      text-align: center;
-      
+      text-align: center;    
     }
+    h1{
+    margin-right: 70px;}
     .child{
         margin-bottom: 600px;
     }
