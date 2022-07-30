@@ -35,4 +35,7 @@ body
     .child{
         margin-bottom: 600px;
     }
+    .hi{
+    height: 100px;
+   }
 }
