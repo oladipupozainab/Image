@@ -24,3 +24,10 @@
     text-shadow: 2px blue;
     margin-left: 180px;
 }
+@media only screen and (max-width: 600px) {
+  .hey{
+      font-size: 30px;
+      margin-left: 50pxx;
+    }
+    margin-top: 250px;
+}
